@@ -13,7 +13,3 @@ You can find some of my work on GitHub, including personal projects and contribu
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile)](https://git.io/typing-svg)
 
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Austinuc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinuc&show_icons=true&hide_border=true&&theme=tokyonight" />
