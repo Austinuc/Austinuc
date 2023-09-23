@@ -1,7 +1,7 @@
 ## Hi, I am Augustine 👋 
 
 
-I am a Java developer with experience building scalable and maintainable applications. I am proficient in Java 8-14 and have experience with various Java frameworks such as Spring, Hibernate, and Struts.
+I am a Java developer with experience building scalable and maintainable distributed microservices as well as monoliths. I am proficient in Java 8-17 and have experience with various Java frameworks such as Quarkus, Spring, Hibernate, and Struts.
 
 I have a strong understanding of object-oriented programming principles and design patterns. I am also comfortable working with SQL databases and no SQL databases such as MYSQL, PostgreSQL, and MongoDB.
 
